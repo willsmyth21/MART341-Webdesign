@@ -1,0 +1,10 @@
+1. I enjoy visiting:
+http://maxsiedentopf.com/
+https://www.thebunch.se/
+https://www.jake-durham.com/
+
+2. An IP address is a set of numbers to identify pieces of the address in a way that the computer can recognize it. The DNS is the domain name that makes more sense to us and is ultimately the link to the IP address.
+
+3. Cookies store data from your interaction with the website. Allowing cookies on a website typically allows them to track you and gain data from what you do on their website.
+
+4. Protocol (https://), Domain name (given name of website connected to IP address), Path (where the specific page can be found)
