@@ -1,0 +1,41 @@
+body{
+    font-family: 'Arvo', serif;
+    background-color: #DD6F3B;
+}
+.first-container {
+    border-style: dotted;
+    border-width: 3px;
+    border-color: black;
+    width: 400px;
+    padding: 10px;
+    margin: auto;
+    background: #87141F;
+  }
+  h1 {
+   color: white;
+   text-align: center !important;
+}
+.second-container {
+  /* same boxed style but pink opacity background */
+    border-style: dotted;
+    border-width: 3px;
+    border-color: black;
+    width: 500px;
+    padding: 10px;
+    margin: auto;
+    background: rgba(255, 15, 192, 0.5);
+  }
+  p {
+    color: white;
+    text-align: center;
+  }
+  img {
+    border: 5px solid red;
+
+  }
+  .image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
