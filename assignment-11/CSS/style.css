@@ -1,0 +1,47 @@
+body{
+    background-color: solid white;
+}
+
+h1 {
+  font-family: 'Rubik', sans-serif;
+  text-align: center;
+  font-size: 30pt;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+h4 {
+  font-family: 'Rubik', sans-serif;
+  text-align: center;
+  font-size: 15pt;
+  text-transform: capitalize;
+  font-kerning: normal;
+}
+.paragraph {
+  font-family: 'Poppins', serif;
+  width: 900px;
+  font-size: 15pt;
+  text-align: center;
+  padding: 3px
+  margn-right: -50%;
+  margin-left: 18%;
+
+}
+.paragraph p::first-letter{
+font-style: italic;
+font-size: 20pt;
+
+}
+.thelink {
+  font-family: 'Poppins', serif;
+  width: 900px;
+  font-size: 15pt;
+  text-align: center;
+  padding: 3px
+  margn-right: -50%;
+  margin-left: 18%;
+
+}
+
+a:hover {
+  color: green;
+}

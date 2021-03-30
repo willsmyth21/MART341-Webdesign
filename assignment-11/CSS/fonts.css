@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Rubik';
+    src: url('../fonts/Rubik-Medium.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+      font-family: 'Poppins';
+      src: url('../fonts/Poppins-Medium.ttf') format('opentype');
+      font-weight: normal;
+      font-style: normal;
+    }
