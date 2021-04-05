@@ -1,0 +1,103 @@
+body{
+    background-color: solid white;
+}
+
+h1 {
+  font-family: 'Rubik', sans-serif;
+  text-align: center;
+  font-size: 30pt;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+h4 {
+  font-family: 'Rubik', sans-serif;
+  text-align: center;
+  font-size: 15pt;
+  text-transform: capitalize;
+  font-kerning: normal;
+}
+.paragraph1 {
+  font-family: 'Poppins', serif;
+  width: 900px;
+  font-size: 15pt;
+  text-align: left;
+  padding: 3px
+  margn-right: -50%;
+  margin-left: 18%;
+
+}
+.paragraph2 {
+  font-family: 'Poppins', serif;
+  width: 500px;
+  font-size: 15pt;
+  text-align: left;
+  padding: 3px;
+  margin-left: 12%
+
+
+
+}
+.paragraph3 {
+  font-family: 'Poppins', serif;
+  width: 500px;
+  font-size: 15pt;
+  text-align: left;
+  padding: 3px
+  margin-right: 50%;
+  margin-left: 50%;
+}
+
+.border1{
+  border-width: 7px;
+  border-style: double;
+  border-color: black;
+  padding-right: 10px;
+  padding-left: 10px;
+
+}
+
+.firstletter p::first-letter{
+font-style: italic;
+font-size: 20pt;
+
+}
+
+
+
+.thelink {
+  font-family: 'Poppins', serif;
+  width: 900px;
+  font-size: 15pt;
+  text-align: center;
+  padding: 3px
+  margn-right: -50%;
+  margin-left: 18%;
+
+}
+
+a:hover {
+  color: green;
+}
+
+.image1{
+position: absolute;
+top: 480px;
+left: 825px
+}
+
+.image2{
+  position: absolute;
+  right: 450px;
+  top: 450px
+}
+
+.menu{
+    display: inline-block;
+    min-width: 6em;
+    text-align: center;
+    background-color: grey;
+    padding: 5px;
+    float: inherit;
+    font-family: 'Rubik', sans-serif;
+
+}

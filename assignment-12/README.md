@@ -1,0 +1,2 @@
+1. Padding is the content or space between the inside of an element and the final border of it. The margin is the space between the element and other elements, this would be the area past the line of padding. Borders are simply defined by height and width around an element that can be styled in many different ways.
+2. A challenge I had this week was getting back in to activity after hurting my ribs last week. I was finally back to be able to work out and run so I had to take it easy and be know my limits. 
