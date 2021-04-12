@@ -1,0 +1,128 @@
+* {
+    box-sizing: border-box;
+  }
+
+body{
+  background-color:#E0BFB8;
+}
+
+.textPlaceholder{
+  font-family: 'Poppins',serif;
+  font-size: 20pt;
+  text-indent: 20pt;
+  position: absolute;
+  top: 250pt;
+  width: 600px
+
+
+}
+
+.title{
+  font-family: 'Rubik', sans-serif;
+  font-size: 40pt;
+  text-indent: 10pt;
+position: absolute;
+top: 100pt;
+}
+
+.menu-item {
+    display: inline-block;
+    margin: 7pt 1pt;
+    min-width: 80pt;
+    text-align: center;
+    background-color: #26272b;
+    padding: 1em 1em;
+}
+
+.menu-item a {
+    color: #fff;
+    text-decoration: inherit;
+}
+
+.menu-item:hover {
+    background-color: #E0BFB4;
+
+}
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    margin: 0.5em 0 0 -1em;
+    color: black;
+    background-color: black;
+    z-index: 5;
+
+}
+.dropdown-content a {
+    color: white;
+}
+
+
+
+
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 5;
+    padding: 1em 1em 1em 1em;
+    min-width: 6em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: black;
+    background-color: #E0BFB8;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.contact-image{
+position: absolute;
+top: 350px;
+left: 100px;
+}
+
+.home-image{
+position: absolute;
+top: 800px;
+
+}
+
+.services-image{
+position: absolute;
+top: 800px;
+
+}
+
+.contactus{
+    width: 25%;
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 50%;
+
+}
+
+.text-placeholder {
+font-family: 'Poppins', serif;
+position: absolute;
+top: 100px;
+
+}
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
